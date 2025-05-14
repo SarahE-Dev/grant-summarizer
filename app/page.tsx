@@ -1,4 +1,4 @@
-import { GrantSummarizer } from "@/components/grant-summarizer"
+import GrantSummarizer from "@/components/grant-summarizer"
 
 export default function Home() {
   return (
